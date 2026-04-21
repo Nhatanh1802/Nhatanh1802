@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm [Tên Của Bạn]! 👋
 
-<!--
-**Nhatanh1802/Nhatanh1802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Marketing Data Analyst | Python & Content Creator
+Chào mừng bạn đến với không gian nhỏ trên GitHub của mình! Mình là sinh viên năm nhất chuyên ngành Marketing tại HSB, đang nỗ lực kết hợp sức mạnh của dữ liệu vào lĩnh vực truyền thông sáng tạo.
 
-Here are some ideas to get you started:
+- 🔭 **Dự án hiện tại:** Tham gia dự án truyền thông văn hóa "Dệt Mới Sắc Xưa".
+- 🌱 **Đang học tập:** Nâng cao kỹ năng SQL và phân tích dữ liệu chuyên sâu với Python.
+- ⚡ **Sở thích:** Bảo tồn Việt phục và sáng tạo nội dung số trên TikTok/Facebook.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### 📬 Kết nối với mình nhé:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](DÁN_LINK_LINKEDIN_CỦA_BẠN_VÀO_ĐÂY)
