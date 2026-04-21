@@ -1,4 +1,4 @@
-# Hi there, I'm [Tên Của Bạn]! 👋
+# Hi there, I'm [Vũ Nhật Ánh]! 👋
 
 ### 🚀 Aspiring Marketing Data Analyst | Python & Content Creator
 Chào mừng bạn đến với không gian nhỏ trên GitHub của mình! Mình là sinh viên năm nhất chuyên ngành Marketing tại HSB, đang nỗ lực kết hợp sức mạnh của dữ liệu vào lĩnh vực truyền thông sáng tạo.
